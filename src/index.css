@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    background-image: url(./images/codioful-formerly-gradienta-7brhZmwXn08-unsplash.jpg);
+    background-size: cover;
+}
